@@ -1,0 +1,1 @@
+# nqs-quantum-chemistry-notes
