@@ -1,9 +1,8 @@
 # nqs-quantum-chemistry-notes
 ## Overview
 
-This repository contains implementation notes and numerical experiments
-related to Neural Quantum States (NQS),
-a machine-learning-based representation of quantum many-body wave functions.
+This repository documents numerical experiments to systematically evaluate stability and constraint enforcement
+in neural-network-based quantum wave function (NQS) representations, ensuring reproducibility and transparency.
 
 The objective is to understand the correspondence between theoretical
 formulations and the numerical behavior of NQS within the context of
