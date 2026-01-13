@@ -9,6 +9,9 @@ The objective is to understand the correspondence between theoretical
 formulations and the numerical behavior of NQS within the context of
 established quantum-chemical and quantum-mechanical frameworks.
 
+In addition to theoretical considerations, particular emphasis is placed on hands-on implementation,
+with attention to code structure, numerical diagnostics, and reproducible evaluation.
+
 ## Motivation
 
 While NQS has attracted attention due to its expressive power,
